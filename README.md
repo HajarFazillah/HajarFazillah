@@ -1,6 +1,7 @@
-# Hi there 👋 I'm Hajar
+# Hi there 👋 I'm Hajar Fazillah
 
-🎓 3rd year Computer Science & Engineering student at Ewha Womans University (International Student)  
+🎓 Graduated in Diploma in Information Technology at Sunway College (KL) Malaysia.
+🎓 Currently an 3rd year Computer Science & Engineering international student at Ewha Womans University, Seoul, South Korea.
 💻 Interested in **AI, Database, Quality Assurance, Game Development, and Software Engineering**  
 🌱 Currently learning **GitHub, Unity, and Generative AI tools (Copilot, ChatGPT, DALL·E, etc.)**  
 🎮 Exploring computer-science related opportunities as a way to gain more experience in coding, teamwork, and creative projects  
