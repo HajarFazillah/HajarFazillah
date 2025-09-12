@@ -2,8 +2,8 @@
 
 🎓 Graduated in Diploma in Information Technology at Sunway College (KL) Malaysia.
 🎓 Currently an 3rd year Computer Science & Engineering international student at Ewha Womans University, Seoul, South Korea.
-💻 Interested in **AI, Database, Quality Assurance, Game Development, and Software Engineering**  
-🌱 Currently learning **GitHub, Unity, and Generative AI tools (Copilot, ChatGPT, DALL·E, etc.)**  
+💻 Interested in **AI, Database, Quality Assurance, Game Development, and Software Engineering**
+🌱 Currently learning **GitHub, Unity, and Generative AI tools (Copilot, ChatGPT, DALL·E, etc.)**
 🎮 Exploring computer-science related opportunities as a way to gain more experience in coding, teamwork, and creative projects  
 
 ⭐️ *I may be a beginner, but I’m challenging myself to code confidently, learn AI tools, and collaborate with others in both game development and database-related projects!*  
